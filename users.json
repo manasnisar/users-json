@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "anasnisar",
+      "password": "anas1234"
+    },
+    {
+      "username": "sidranoor",
+      "password": "sidra1234"
+    },
+    {
+      "username": "osamamk",
+      "password": "osama1234"
+    },
+    {
+      "username": "sohaibak",
+      "password": "sohaib1234"
+    },
+    {
+      "username": "shujaa",
+      "password": "shuja1234"
+    },
+    {
+      "username": "ahameed",
+      "password": "hameed1234"
+    },
+    {
+      "username": "hajiram",
+      "password": "hajira1234"
+    },
+    {
+      "username": "nuqman",
+      "password": "bond1234"
+    },
+    {
+      "username": "harisnisar",
+      "password": "haris1234"
+    }
+  ]
+}
